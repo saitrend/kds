@@ -1,6 +1,6 @@
-# 📡 Communication Channels
+# 📡 Kitchen Management System
 
-The KDS (Kitchen Display System) supports two primary communication channels:
+The KDS (Kitchen Display System) is publically available Android & iOS app that connects to any POS Server as long as the POS server accepts any of the following communications:
 
 - **Socket channel (Recommended)**
 - **REST API channel (Deprecated)**
