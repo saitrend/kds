@@ -196,6 +196,11 @@ When an order status is updated from the KDS interface:
 
 > The POS should respond with a `get_orders` message to sync with the KDS.
 
+
+### Managed by Sailab Rahi at Ebmbook
+Like this guide? Fuel us with coffee ☕ – [Click here for support](https://play.google.com/store/apps/dev?id=5927913112557769890&hl=en-US)
+
+
 ---
 
 ## 🆘 Support
