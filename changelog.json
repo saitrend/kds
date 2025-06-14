@@ -1,1 +1,20 @@
-
+[
+    {
+      "version": "2.0.1",
+      "date": "2025-06-14",
+      "changes": [
+        "🧩 The new version 2 release includes complete changes to the entire UI and features of the KDS.",
+        "🕒 Send and receive real-time orders between the POS and the Kitchen Display System (KDS).",
+        "📱 The release has support for both mobile and web version of the KDS. The web version is available through the Embook Pro POS",
+        "🌙 The dark and light theme has been also added to improve usability, accessibility and energy efficiency"
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "date": "2023-05-25",
+      "changes": [
+        "🐞 Bug fixed with assigning category to product and opening external links."
+      ]
+    }
+  ]
+  
